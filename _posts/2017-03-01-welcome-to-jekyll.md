@@ -16,6 +16,8 @@ title: "Introduction to Web Development"
 ---
 
 ![Web Development](assets/images/web.jpg)
+<img width="518" height="280" alt="image" src="https://github.com/user-attachments/assets/726ba559-dc82-4657-b767-b09551c4c0b5" />
+
 
 ## What is Web Development?
 Web development is creating websites.
