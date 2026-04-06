@@ -4,6 +4,8 @@ title: "Programming Languages and Technologies"
 ---
 
 ![Technology](assets/images/technology.jpg)
+<img width="710" height="460" alt="image" src="https://github.com/user-attachments/assets/8be275ee-64df-4a18-a5b0-4a770a7c4870" />
+
 
 ## 🌐 Introduction
 
