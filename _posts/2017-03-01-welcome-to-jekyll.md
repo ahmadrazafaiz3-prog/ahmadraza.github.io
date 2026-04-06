@@ -8,6 +8,15 @@ title: "Programming Languages and Technologies"
 ## 🌐 Introduction
 
 In today’s modern world, programming languages and technologies play a vital role in shaping our digital future. They help us create websites, applications, and smart systems that make life easier.
+---
+layout: post
+title: "Introduction to Web Development"
+---
+
+![Web Development](assets/images/web.jpg)
+
+## What is Web Development?
+Web development is creating websites.
 
 ---
 
