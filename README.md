@@ -1,87 +1,93 @@
+# 🌟 My Personal Blog Website
+
+Welcome to my personal blog website created using Jekyll and hosted on GitHub Pages.
+
 ---
-title: "my blog"
-permalink: "/about/"
-layout: page
+
+## 👤 About Me
+
+Hello! My name is Ahmad Raza.  
+I am a student of Computer Science and passionate about learning new technologies.
+
+- 🎓 Field: Computer Science  
+- 💻 Interests: Web Development, Databases, AI  
+- 🌍 Location: Pakistan  
+
 ---
 
-## Github Pages
+## 🎓 My Education
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+I am currently studying in university and building my skills in:
 
-## Features
+- Programming (C#, Python)
+- Web Development (HTML, CSS, JavaScript)
+- Databases (MySQL)
 
- - dark mode
- - [KaTeX](https://katex.org) included
- - no external ressources
- - optional sidebar
- - archive page
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+My goal is to become a professional software developer.
 
-## Installation
+---
 
-To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
+## 🏫 My First Day in University
 
-```
-git clone https://github.com/niklasbuschmann/contrast.git
-cd contrast
-gem install bundler jekyll jekyll-feed
-bundle exec jekyll serve
-```
+My first day at university was a very special experience.
 
-## Config
+- I felt excited and nervous at the same time  
+- The campus was large and beautiful  
+- I met new friends and classmates  
+- Teachers were supportive and friendly  
 
-Your `_config.yml` could for example look like this:
+It was the beginning of a new journey in my life.
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+---
 
-# Layout
+## 🚀 My Journey
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+My journey started with basic computer knowledge and now I am learning:
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+- GitHub and version control  
+- Website development using Jekyll  
+- Database systems  
+- Problem solving and programming  
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+I believe consistency and hard work will help me achieve my goals.
 
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+---
 
-comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
+## 🖼️ Screenshots
 
-plugins:
- - jekyll-feed
-```
+### 📌 Homepage
 
-## Math
+![Homepage](assets/images/homepage.jpg)
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter. [Jektex](https://github.com/yagarea/jektex) can be used to pre-render math on the server side.
+---
 
-## License
+### 📌 Blog Page
 
-[public domain](http://unlicense.org/)
+![Blog Page](assets/images/blogpage.jpg)
 
-## Screenshots
+---
 
-![screenshot](https://github.com/user-attachments/assets/8f0ef4bc-f079-495e-8c31-5867b8ccd25c)
+### 📌 First Blog Post
 
-![screenshot](https://github.com/user-attachments/assets/e5e6d189-3251-41f4-baba-ff42be65f666)
+![First Post](assets/images/firstpost.jpg)
 
-![screenshot](https://github.com/user-attachments/assets/d31879ae-7113-42be-b580-1e96a2aedd29)
+---
 
-![screenshot](https://github.com/user-attachments/assets/d524ce47-8d8c-473e-afc6-79b34fae63e8)
+## 🌐 Live Website
+
+👉 https://yourusername.github.io  
+
+---
+
+## 🛠️ Technologies Used
+
+- Jekyll  
+- GitHub Pages  
+- Markdown  
+- HTML & CSS  
+
+---
+
+## 📌 Note
+
+This project is created for learning and academic purposes.
