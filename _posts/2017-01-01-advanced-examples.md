@@ -17,6 +17,7 @@ I met new classmates and made some friends. Everyone was friendly, and we shared
 
 ## Classes Experience
 The teachers were very professional and helpful. I learned about my subjects and how the semester will continue.
+![University](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=800&q=60)
 
 ## My Feelings
 At first, I was a little nervous, but after some time I felt comfortable and confident.
