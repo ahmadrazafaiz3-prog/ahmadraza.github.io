@@ -7,6 +7,7 @@ title: "My First Day in University"
 
 ## Introduction
 My first day at university was one of the most exciting and memorable days of my life. I was both nervous and excited to start a new journey.
+![First Day in University](https://images.unsplash.com/photo-1523050854058-8df90110c9f1)
 
 ## First Impression
 When I entered the university, I saw a large campus full of students. Everything was new for me — classrooms, teachers, and environment.
